@@ -1,4 +1,4 @@
-# SmoothinSplines
+# SmoothingSplines
 Investigating the properties and behavior of smoothing splines
 
 Please download the SmoothingSplines.zip file, which contains the following:
